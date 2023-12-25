@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "audio_breadboard")(type "KiCad")(uri "C:/Users/Max/OneDrive/Projects/Analog Synth/audio_breadboard/audio_breadboard/audio_breadboard.pretty")(options "")(descr ""))
+  (lib (name "kosmo-lib")(type "KiCad")(uri "C:/Users/Max/OneDrive/Projects/Analog Synth/audio_breadboard/audio_breadboard/kosmo-lib/kosmo-lib.pretty")(options "")(descr ""))
+)

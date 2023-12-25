@@ -4554,6 +4554,9 @@
   (gr_text "GND" (at 66.04 123.19) (layer "F.SilkS" knockout) (tstamp f522e040-41cf-4dde-9168-be6a7aed4537)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
+  (gr_text "Euro 1x" (at 152.4 45.72) (layer "Cmts.User") (tstamp 76dbeeb3-e026-4a77-a27a-ecacbcda4d11)
+    (effects (font (size 5 5) (thickness 0.75)))
+  )
 
   (segment (start 203.835 80.01) (end 168.907208 80.01) (width 1) (layer "F.Cu") (net 1) (tstamp 0bd8ca23-5d31-418c-a5d0-312b1eb18163))
   (segment (start 204.0255 79.8195) (end 203.835 80.01) (width 1) (layer "F.Cu") (net 1) (tstamp 1779f175-d501-4ad6-af2e-dbd29e0762e2))
