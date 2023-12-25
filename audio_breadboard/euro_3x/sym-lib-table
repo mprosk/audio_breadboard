@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kosmo-lib")(type "KiCad")(uri "C:/Users/Max/OneDrive/Projects/Analog Synth/audio_breadboard/audio_breadboard/kosmo-lib/kosmo-lib.kicad_sym")(options "")(descr ""))
+)
